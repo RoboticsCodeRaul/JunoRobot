@@ -10,5 +10,5 @@
 
 Video:
   * [Lecture video](https://www.youtube.com/watch?v=cjIHdSHa2zM&t=8s&ab_channel=FranciscoLopes)
-  * [go](http://stackoverflow.com){:target="_blank"}.
+  *[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
   
